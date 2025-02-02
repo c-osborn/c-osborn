@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Chris Osborn 👋
 
-<!--
-**Blob-Glob/Blob-Glob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Experienced Data & Software Engineer** from **Des Moines, Iowa**
 
-Here are some ideas to get you started:
+Data and software professional with a passion for tackling complex problems and extracting insights from data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills
+- **Programming:** C#, JavaScript, Python, Transact-SQL, PostgreSQL
+- **Databases:** Data Warehousing, Azure Data Factories, Data Lakes
+- **Cloud Platforms:** Microsoft Azure, Google Cloud Platform
+- **Infrastructure as Code:** Bicep
+- **DevOps & CI/CD:** Azure DevOps, Concourse
+- **Additional Expertise:** API Development (REST & GraphQL), Web Scraping, Azure AI, New Relic & Splunk
+
+---
+
+## 🚀 Featured Projects
+
+### [HiScore Tracker](https://github.com/yourusername/hiscore-tracker)
+A **HiScore lookup tool** for **OSRS**, powered by **Azure Functions** and **Blazor WebAssembly**.
+
+🔹 **Tech Stack:** .NET 8, Blazor, Azure Functions, SQL Server  
+🔹 **Features:**
+- Daily automatic user lookups via timer-based function
+- HTTP endpoint for on-demand HiScore lookups
+- Mapping of rank, level, and experience to OSRS skills
+
+---
+
+## 📫 Connect with Me
+💼 [LinkedIn](https://linkedin.com/in/chris-osborn-hello)  
+📧 [Email](mailto:chrisosborn93@gmail.com)  
+
+---
+
+💡 *Always looking for exciting projects & collaborations!*
