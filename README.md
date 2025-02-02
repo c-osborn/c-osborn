@@ -10,7 +10,8 @@ Data and software professional with a passion for tackling complex problems and 
 - **Cloud Platforms:** Microsoft Azure, Google Cloud Platform
 - **Infrastructure as Code:** Bicep
 - **DevOps & CI/CD:** Azure DevOps, Concourse
-- **Additional Expertise:** API Development (REST & GraphQL), Web Scraping, Azure AI, New Relic & Splunk
+- **Logging:**  New Relic & Splunk
+- **Additional Expertise:** API Development (REST & GraphQL), Web Scraping, Azure AI
 
 ---
 
