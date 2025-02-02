@@ -24,7 +24,6 @@ A **HiScore lookup tool** for **OSRS**, powered by **Azure Functions** and **Bla
 🔹 **Features:**
 - Daily automatic user lookups via timer-based function
 - HTTP endpoint for on-demand HiScore lookups
-- Mapping of rank, level, and experience to OSRS skills
 
 ---
 
