@@ -29,7 +29,6 @@ A **HiScore lookup tool** for **OSRS**, powered by **Azure Functions** and **Bla
 
 ## 📫 Connect with Me
 💼 [LinkedIn](https://linkedin.com/in/chris-osborn-hello)  
-📧 [Email](mailto:chrisosborn93@gmail.com)  
 
 ---
 
