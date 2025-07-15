@@ -14,7 +14,7 @@ Data and software professional with a passion for tackling complex problems and 
 - **Additional Expertise:** API Development (REST & GraphQL), Web Scraping
 
 ---
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-osborn&show_icons=true&theme=radical)
+![Chris's GitHub stats](https://![Chris's GitHub stats](github-readme-stats-azure-alpha-68.vercel.app/api?username=c-osborn&show_icons=true&theme=radical)/api?username=c-osborn&show_icons=true&theme=radical)
 ---
 
 ## 📫 Connect with Me
