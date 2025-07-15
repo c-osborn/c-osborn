@@ -16,15 +16,3 @@ Data and software professional with a passion for tackling complex problems and 
 ---
 ![Chris's GitHub stats](https://github-readme-stats-azure-alpha-68.vercel.app/api?username=c-osborn&show_icons=true&theme=dark)
 ---
-
-// 📫 Connect with Chris
-const connect = {
-  platform: "LinkedIn",
-  url: "https://linkedin.com/in/chris-osborn-hello",
-  message: "Let's build something great together 🚀"
-}
-
-
----
-
-💡 *Always looking for exciting projects & collaborations!*
