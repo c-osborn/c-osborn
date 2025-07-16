@@ -13,6 +13,3 @@ Data and software professional with a passion for tackling complex problems and 
 - **Logging:**  New Relic, Splunk, Datadog
 - **Additional Expertise:** API Development (REST & GraphQL), Web Scraping
 
----
-![Chris's GitHub stats](https://github-readme-stats-azure-alpha-68.vercel.app/api?username=c-osborn&show_icons=true&theme=dark)
----
