@@ -5,8 +5,8 @@
 Data and software professional with a passion for tackling complex problems and extracting insights from data.
 
 ## 🔧 Technologies & Skills
-- **Programming:** C#, JavaScript, Python, Transact-SQL, PostgreSQL
-- **Databases:** PostgreSQL, SQL Server, MySQL
+- **Programming:** C#, JavaScript, Python
+- **Databases:** PostgreSQL, Transact-SQL, MySQL
 - **Cloud Platforms:** Microsoft Azure, GCP, AWS
 - **Infrastructure as Code:** Bicep, Terraform
 - **DevOps & CI/CD:** Azure DevOps, Concourse, CircleCI
